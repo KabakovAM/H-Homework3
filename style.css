@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    margin-top: 50px;
+    display: flex;
+    width: 1100px;
+    gap: 14px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.growbe {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 5px;
+}
+.growbe span{
+    color: #F25822;
+}
+
+.links {
+    color: #000;
+    font-family: Gilroy-Medium;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 600px;
+    margin-top: 5px;
+}
+
+.links span{
+    color: #F25822;
+}
+
+.intro {
+    margin-top: 89px;
+    display: flex;
+    gap: 40px;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.upper-title {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.title {
+    color: #888;
+    font-family: Gilroy-Medium;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 17px;
+}
+
+.button-1 {
+    color: #FFF;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 50px;
+    border-color: #F25822;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+    margin-top: 37px;
+    width: 140px;
+    height: 50px;
+    flex-shrink: 0;
+}
+
+.button-2 {
+    color: #AAA;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 72px;
+}
+
+.brand {
+    margin-top: 260px;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sub-brand{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
